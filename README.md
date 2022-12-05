@@ -1,2 +1,2 @@
-#  Mini solary sistem
+#  Mini solary system
 ## Using three.js and vite
